@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Navigationsbeispiel</string>
+	<string name="open_drawer">Open drawer</string>
+	<string name="close_drawer">Close drawer</string>
+  <string name="app_description">Ein Beispiel für die Navigation unter Android</string>
+  <string name="menu1">Home</string>
+  <string name="menu2">Nachrichten</string>
+  <string name="menu3">Freunde</string>
+  <string name="menu4">Geräte</string>
+  <string name="submenu">Untermenüs</string>
+  <string name="submenu1">Untermenü 1</string>
+  <string name="submenu2">Untermenü 2</string>
+  <string name="submenu3">Untermenü 3</string>
+</resources>
